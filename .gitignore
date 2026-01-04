@@ -1,0 +1,10 @@
+# Ignore the virtual environment
+venv/
+__pycache__/
+
+# Ignore secret keys
+.env
+.streamlit/secrets.toml
+
+# Ignore system files
+.DS_Store
