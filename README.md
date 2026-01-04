@@ -1,4 +1,3 @@
-PROJECT TITLE
 Chat with Gemini - AI Assistant
 
 DESCRIPTION
