@@ -1,24 +1,24 @@
-Chat with Gemini - AI Assistant
+# Chat with Gemini - AI Assistant
 
-DESCRIPTION
+## DESCRIPTION
 
 This is a generative AI web application built using Python. It acts as a personal assistant that allows users to chat with Google's Gemini Flash model. The application features a simple web interface where users can input questions and receive real-time, intelligent responses.
 
 I built this project to learn how to integrate Large Language Models (LLMs) into software applications without relying on paid APIs.
 
-FEATURES
+## FEATURES
 - Real-time text generation using Google Gemini 2.0 Flash
 - Simple, clean web interface
 - Error handling for API connection issues
 - Secure API key management
 
-TECH STACK
+## TECH STACK
 - Language: Python 3
 - Framework: Streamlit (for the frontend web interface)
 - AI Model: Google Gemini Flash (via Google GenAI SDK)
 - Environment Management: Python-dotenv
 
-HOW TO RUN THIS PROJECT LOCALLY
+## HOW TO RUN THIS PROJECT LOCALLY
 
 1. Clone the repository or download the files.
 
